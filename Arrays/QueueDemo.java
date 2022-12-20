@@ -1,8 +1,8 @@
-package ArraysAndBitwise;
+package Arrays;
 
 class Queue {
-    char[] q;  // this array holds the queue
-    int putloc, getloc;  // the put and get indices
+    private char[] q;  // this array holds the queue
+    private int putloc, getloc;  // the put and get indices
 
     // queue constructor
     Queue(int size) {

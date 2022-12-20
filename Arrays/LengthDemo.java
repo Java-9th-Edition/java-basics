@@ -1,4 +1,4 @@
-package ArraysAndBitwise;
+package Arrays;
 
 public class LengthDemo {
     public static void main(String[] args) {

@@ -1,5 +1,6 @@
 package Strings;
 
+// type inference for local variables
 public class VarDemo {
     public static void main(String[] args) {
         // use type inference to determine the type of the variable avg. In this case double is inferred
